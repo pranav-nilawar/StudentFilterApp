@@ -50,7 +50,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 18,
   "serverSideFiltering": false,
-  "sourceData": "[\n  {\n    \"name\": \"A\",\n    \"code\": \"A\"\n  },\n  {\n    \"name\": \"Bn\",\n    \"code\": \"B\"\n  }\n]",
+  "sourceData": "[\n  {\n    \"name\": \"A\",\n    \"code\": \"A\"\n  },\n  {\n    \"name\": \"B\",\n    \"code\": \"B\"\n  }\n]",
   "topRow": 16,
   "type": "SELECT_WIDGET",
   "version": 1,
