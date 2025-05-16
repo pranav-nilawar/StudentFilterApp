@@ -1,0 +1,1 @@
+INSERT INTO public.student_data ("school_name","class","section","student_name","roll_number") VALUES ('{{(Table1.newRow || {}).school_name}}','{{(Table1.newRow || {}).class}}','{{(Table1.newRow || {}).section}}','{{(Table1.newRow || {}).student_name}}','{{(Table1.newRow || {}).roll_number}}')

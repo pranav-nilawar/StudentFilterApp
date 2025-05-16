@@ -1,0 +1,1 @@
+UPDATE public.student_data SET "school_name"= '{{Table1.updatedRow.school_name}}', "class"= '{{Table1.updatedRow.class}}', "section"= '{{Table1.updatedRow.section}}', "student_name"= '{{Table1.updatedRow.student_name}}', "roll_number"= '{{Table1.updatedRow.roll_number}}' WHERE "id"= {{Table1.updatedRow.id}};
